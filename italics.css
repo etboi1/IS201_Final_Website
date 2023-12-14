@@ -1,0 +1,10 @@
+.italics {
+    font-style: italic;
+}
+
+.warning {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    color: red !important;
+    text-align: center;
+}
